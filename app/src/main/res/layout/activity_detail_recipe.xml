@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="15dp"
+    android:paddingTop="20dp"
+    android:paddingRight="15dp"
+    tools:context=".DetailRecipeActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_recipe_title_detail"
+            style="@style/TextAppearance.AppCompat.Headline"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:textStyle="bold"
+            app:layout_constraintBaseline_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/iv_recipe_detail"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/iv_recipe_detail"
+            style="@style/Widget.MaterialComponents.ShapeableImageView.RecipeImage"
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:layout_marginTop="15dp"
+            app:layout_constraintBottom_toTopOf="@+id/tv_description"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_recipe_title_detail" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            style="@style/TextAppearance.MaterialComponents.Subtitle1.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/description"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/iv_recipe_detail" />
+
+        <TextView
+            android:id="@+id/tv_recipe_desc_detail"
+            style="@style/TextAppearance.MaterialComponents.Body2.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/dummy_desc"
+            app:layout_constraintBottom_toTopOf="@+id/tv_ingredients"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_description" />
+
+        <TextView
+            android:id="@+id/tv_ingredients"
+            style="@style/TextAppearance.MaterialComponents.Subtitle1.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/ingredients"
+            app:layout_constraintBottom_toTopOf="@+id/tv_ingredients_detail"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_recipe_desc_detail" />
+
+        <TextView
+            android:id="@+id/tv_ingredients_detail"
+            style="@style/TextAppearance.MaterialComponents.Body2.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/dummy_ingredients"
+            app:layout_constraintBottom_toTopOf="@+id/tv_steps"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_ingredients" />
+
+        <TextView
+            android:id="@+id/tv_steps"
+            style="@style/TextAppearance.MaterialComponents.Subtitle1.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/steps"
+            app:layout_constraintBottom_toTopOf="@+id/tv_steps_detail"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_ingredients_detail" />
+
+        <TextView
+            android:id="@+id/tv_steps_detail"
+            style="@style/TextAppearance.MaterialComponents.Body2.DetailRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/dummy_steps"
+            app:layout_constraintBottom_toTopOf="@+id/action_share"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_steps" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/action_share"
+            style="@style/Widget.MaterialComponents.Button.MenuType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/share"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_steps_detail" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">ResepNusantara</string>
+    <string name="name">Nama</string>
+    <string name="name_value">Taufik Anwar</string>
+    <string name="email">Email</string>
+    <string name="email_value">anwrtaufik@gmail.com</string>
+    <string name="hello">Hello,</string>
+    <string name="nick_name">Taufik</string>
+    <string name="greetings">Good Morning</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dummy_desc">ini adalah deskripsi</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="dummy_ingredients">ini adalah ingredients</string>
+    <string name="steps">Steps</string>
+    <string name="dummy_steps">ini adalah steps</string>
+    <string name="share">Share</string>
+    <string name="bomboo">Bomboo</string>
+
+    <string-array name="data_food_title">
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Uduk</item>
+        <item>Soto</item>
+        <item>Sate</item>
+        <item>Gado-Gado</item>
+        <item>Gudeg</item>
+        <item>Mie Rebus</item>
+        <item>Sop Buntut</item>
+        <item>Tempe Mendoan</item>
+    </string-array>
+
+    <string-array name="data_food_description">
+        <item>Kebanyakan dari kita kalau ke restoran Padang pasti langsung pesan rendang. Tak salah memang karena ini merupakan masakan nusantara yang melegenda. Bahkan makanan ini berada di posisi pertama dalam jajaran 50 makanan dunia terenak versi CNN, lho.</item>
+        <item>Saat ada sisa nasi, tak jarang kita membuatnya sebagai menu nasi goreng untuk sarapan. Bukan hanya sisa nasi saja, nasi yang baru matang juga enak untuk dimasak sebagai nasi goreng. Masakan ini masuk juga dalam daftar makanan terenak di dunia. Kamu bisa lihat resep berikut untuk membuat nasi goreng yang enak.</item>
+        <item>Nasi uduk dibuat dengan cara mengolah beras putih, namun diaron dan dikukus memakai santan. Dibumbui sehingga rasa nasinya begitu khas dan nikmat. Disajkan dengan aneka ikan, masakan ini sering dijual di pinggir jalan sebagai menu sarapan.</item>
+        <item>Varian soto di Indonesia sangatlah banyak. Masakan berkuah kuning ini di tiap daerah memiliki ciri khasnya sendiri. Cita rasa soto begitu khas dan banyak disukai wisatawan dari berbagai negara. Kamu bisa membuat soto ayam lezat dengan resep persembahan kami.</item>
+        <item>Sate jadi makanan favorit banyak orang nih. Bukan hanya menu favorit di Indonesia, namun sate juga menjadi menu sejumlah restoran internasional. Yuk segera buat menu mudah ini. Untuk sate ayam bumbu kecap bisa intip resep berikut ini.</item>
+        <item>Gado-gado rupanya begitu populer di luar negeri. Di Italia misalnya, lantaran makanan ini pernah diikutsertakan dalam kompetisi dan jadi juara pertama, maka makanan ini pun langsung banyak diminati. Yuk, segera buat dengan resep persembahan kami!</item>
+        <item>Khas dari Jogja dan berhasil go international, itulah Gudeg. Makanan ini bahkan diminati untuk diimpor dalam bentuk kalengan. Bahkan di Clayton Road Australia, menu ini terdapat pada salah satu restoran di sana lho. Kalau mau bikin gudeg, kamu bisa lihat resep dari kami, selain itu jika ingin melihat tutorial dan resep alternatifnya.</item>
+        <item>Kala hujan turun, enaknya memang makan yang hangat. Tak ada yang bisa menolah lezatnya mi rebus khas Indonesia nih. Kamu pastinya juga suka banget kan makan mi rebus kala hujan turun. Segera buat yuk, mi rebus yang lezat dengan resep di bawah ini.</item>
+        <item>Sop buntut selain populer di Indonesia juga populer di Spanyol. Makanan ini kaya akan rempah sehingga rasanya begitu nikmat. Aromanya wangi dan cocok dimakan bersama nasi hangat, pastinya tak tertahankan lezatnya. Segera buat dengan resep kami berikut ini!</item>
+        <item>Simple namun enak disajikan bersama apa saja. Aneka olahan tempe jangan sampai kamu lewatkan untuk dicoba. Salah satunya adalah tempe yang dibuat mendoan. Kamu bisa intip olahan tempe mendoan dengan resep di bawah ini.</item>
+    </string-array>
+
+    <string-array name="data_food_ingredients">
+        <item>- 500 gram daging sapi\n- 500 ml santan dari 1 butir kelapa\n- 2000 ml santan dari 1 butir kelapa\n- 3 cm lengkuas dimemarkan\n- 2 batang serai diambil bagian putih dan memarkan\n- 2 lembar daun kunyit dibuat simpul\n- 2 buah cabai merah keriting\n- 5 buah cabai merah besar dibuang bijinya\n- 12 butir bawang merah\n- 4 Siung bawang putih\n- 4 butir kemiri disangrai\n- ½ sdt merica butiran\n- 1 sdm ketumbar butiran\n- 3 sdt garam\n- ½ sdt gula pasir\n- 3 cm jahe</item>
+        <item>- 1 piring nasi putih\n- 2 siung bawang putih\n- 2 buah bawang merah\n- 3 buah cabai rawit\n- 1 buah cabai merah\n- 2 sdm kecap manis\n- 1 sdm saus tomat\n- 1 sdm saus sambal\n- 1 sdm saus tiram\n- 1 sdt garam\n- 1/2 sdt merica bubuk\n- 1/2 sdt kaldu bubuk rasa ayam\n- 1 batang daun bawang dicincang halus\n- 1 butir telur ayam\n- 2 sdm ayam suwir\n- 1 buah sosis ayam diiris tipis\n- 3 sdm margarin untuk menumis</item>
+        <item>- 300 g beras\n- 450 ml santan kelapa kental\n- 2 lembar daun salam muda\n- 2 butir cengkeh\n- 2 batang serai dimemarkan\n- 2 cm kayu manis\n- 1sdt merica\n- 1 sdt garam</item>
+        <item>- 1 ekor ayam\n- 200 g kol diiris tipis\n- 200 g tauge dibersihkan dan kukus hingga matang\n- 4 buah kentang dibersihkan diiris tipis\n- 2 buah tomat dibagi menjadi 6 bagian\n- 50 g, soun rendam dengan air panas\n- 3 butir telur ayam direbus hingga matang kemudian iris menjadi 4 bagian\n- 2 L air\n- 50 g bawang goreng\n- 3 lembar daun jeruk\n- 2 batang serai\n- 2 lembar daun salam\n- 1 batang daun bawang diiris halus\n- 2 sdm lengkuas\n- 25 g minyak goreng\n- 2 cm kunyit\n- 4 buah kemiri\n- 15 g jahe\n- 3 buah bawang merah\n- 2 siung bawang putih\n- 1 sdt Merica\n- 2 sdm garam\n- 1 buah jeruk nipis, bagi menjadi 8 bagian</item>
+        <item>- 100 gram daging ayam tanpa tulang\n- 2 sdm margarin dicampur sisa bumbu marinasi untuk olesan\n- Tusuk sate secukupnya\n- 1 sdm gula merah Jawa sisir halus\n- 0,5 sdt ketumbar\n- 1 siung bawang putih\n- 3 siung bawang merah\n- 10ml kecap manis kental</item>
+        <item>- 150 gram kubis diiris-iris kecil\n- 175 gram bayam\n- 200 gram mentimun diiris-iris kecil\n- 175 gram tauge\n- 300 gram kentang rebus diiris dadu\n- 200 gram kacang panjang\n- 300 gram tahu kuning digoreng dan diiris dadu</item>
+        <item>- 2 sdm garam\n- 10 butir kemiri disangrai\n- 1sdt ketumbar sangrai\n- 15 siung bawang merah\n- 10 siung bawang putih\n- ½ sdt merica bubuk\n- 1 kg nangka muda</item>
+        <item>- 500 gr mi telur, rebus terlebih dahulu\n- 2 butir telur ayam\n- 1 ikat daun caisim\n- 30 gr kol, cincang kasar\n- 50 gr ayam suwir\n- Kecap manis secukupnya\n- Garam secukupnya\n- Merica secukupnya</item>
+        <item>- 1 kg buntut sapi dipotongi\n- 3 buah wortel dipotongi\n- 2 buah kentang dipotongi\n- 2 batang daun bawang dipotongi\n- 1 ikat kecil seledri disimpulkan1 buah tomat dipotongi\n- 1 buah pala dipecahkan dan haluskan</item>
+        <item>- 1 papan tempe, iris tipis\n- 2 sdm tepung terigu\n- 2 sdm tepung beras\n- 1 sdm tepung tapioka\n- 2 batang daun bawang, iris tipis\n- 2 lembar daun jeruk, buang punggung daunnya, iris tipis</item>
+    </string-array>
+
+    <string-array name="data_food_steps">
+        <item>- Pertama, ambil dagingnya lalu silahkan dipotong-potong 2 cm melawan serat supaya empuk lalu sisihkan dulu.\n- Masaklah santan encer lalu masukkan lengkuas dan serai. Jangan lupa tambahkan juga daun kunyit dan bumbu halusnya.\n- Aduk sampai merata lalu masukkan daging dan masak sampai dagingnya empuk.\n- Jika kuah sudah mengental, kamu bisa mulai menuangi santan kentalnya lalu masak pada atas api kecil.</item>
+        <item>- Pertama yang bisa kamu lakukan adalah menghaluskan bawang putih dan juga bawang merah. Haluskan juga cabai rawit serta cabai merah.\n- Siapkan wajan lalu panaskan margarin dan tumis bumbu halusnya sampai harum.\n- Masukkan ayam suwir dan juga sosis lalu tumis sebentar.\n- Tambahkan telur dan tumis bersama dengan bumbu.\n- Masukkan nasi lalu aduk sampai tercampur rata.\n- Tuangi kecap manis, saus tomat dan saus sambal.\n- Kamu juga perlu menuangi saus tiram lalu menaburkan garam, merica dan kaldu bubuk.\n- Aduk sampai nasi berubah dan merata lalu siap disajikan.</item>
+        <item>- Cuci beras sampai bersih lalu sisihkan dulu.\n- Rebuslah santan lalu masukkan daun salam dan serai\n- Jangan lupa juga untuk memasukkan cengkeh, kayu manis serta merica dan garam.\n- Aduk sampai mendidih lalu masukkan santan dan beras.\n- Kukuslah sampai beras matang hingga menjadi nasi dan siap disajikan.</item>
+        <item>- Sebagai awalan kamu bisa menghaluskan kunyit, kemiri, jahe beserta bawang merah dan putih.\n- Masukkan juga merica dan garam lalu aduk merata.\n- Panaskan wajan dengan api sedang lalu tumis bumbu hingga harum.\n- Jangan lupa untuk menambahkan daun jeruk dan daun salam.\n- Tambahkan juga serai dan lengkuas lalu aduk hingga harum.\n- Ambil panci lalu isi air dan didihkan lalu masukkan bumbu yang telah ditumis ke dalam air rebusan.\n- Jika sudah mendidih, masukkan ayam dan biarkan matang.\n- Keluarkan ayam dari kuah lalu pisahkan daging dengan tulangnya.\n- Masukkan lagi tulang ayam pada kuah sementara daging ayam bisa digoreng hingga kecoklatan lalu disuwir kecil.\n- Masukkan daun bawang pada kuah soto.</item>
+        <item>- Potongi kotak-kotak untuk daging ayamnya\n- Haluskan bumbu marinasi lalu campur dengan daging ayam yang sudah dipotong lalu aduk merata dan diamkan meresap 30 menit.\n- Tusuki daging ayam hingga habis namun sisa bumbu jangan dibuang.\n- Masukkan margarin pada sisa bumbu dan aduk rata.\n- Siapkan bakaran lalu olesi sate dengan bumbu olesan hingga merata.\n- Bakar satenya sesekali dibolak balik dan diolesi bumbu hingga matang.</item>
+        <item>- Rebus semua sayuran sampai lunak lalu tiriskan.\n- Haluskan cabe merah, garam, cabe rawit dan juga terasi hingga halus.\n- Masukkan kacang tanah dan kacang kenari.\n- Tambahkan air asam, kecap, air dan gula merah.\n- Aduk rata lalu masak di atas wajan hingga mendidih.\n- Biarkan dingin lalu siap disajikan dengan lainnya.\n- Ambil piring lalu tambahkan sayuran dan kentang.</item>
+        <item>- Cuci nangka lalu potong dadu dan rebus beberapa menit lalu tiriskan dan sisihkan.\n- Ambil panci, alasi dasarnya dengan daun salam dan irisan lengkuas.\n- Masukkan telur rebus, gula aren dan nangka pada panci.\n- Haluskan bumbu lalu campur dengan setengah air kelapa dan aduk rata baru tuang pada panci.\n- Tuang air kelapa yang tak dicampur hingga telur dan nangka terendam lalu tutup pancinya.\n- Masak 2 jam dengan api sedang, lalu jika sudah menyusut airnya, sisihkan dan angkat telurnya.</item>
+        <item>- Tumis bumbu halus sampai harum.\n- Orak arik telusnya lalu masukkan daun caisim dan kol dan tunggu sampai layu.\n- Masukkan mi dan aduk rata, lalu masukkan air secukupnya.\n- Tambahkan kecap, merica, garam dan ayam suwir.\n- Aduk rata dan biarkan kuah mendidih baru sajikan.</item>
+        <item>- Panaskan air lalu masak hingga mendidih.\n- Masukkan buntut sapi lalu rebus sampai berbusa dan buang airnya.\n- Didihkan air baru lalu masukkan buntut dan rebus sampai lunak\n- Panaskan minyak dan tumis bunbu halus hingga wangi dan matang.\n- Masukkan tumisan dalam panci rebusan buntut.\n- Tambahkan wortel dan kentang lalu masak pakai api kecil sampai mendidih.\n- Bubuhi garam dan cengkeh lalu masukkan bunga lawang, gula dan kayu manis.\n- Tambahkan juga kapulaga dan pala lalu tes rasanya.</item>
+        <item>- Haluskan bumbu yang terdiri dari bawang putih, bawang merah, kunyit, dan ketumbar lalu campur bumbu halus dengan terigu dan tepung beras.\n- Masukkan juga tapioka, irisan daun bawang dan daun jeruk.\n- Gulingkan tempe pada adonan lalu goreng sampai matang.</item>
+    </string-array>
+
+    <integer-array name="data_food_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/nasi_uduk</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/mie_rebus</item>
+        <item>@drawable/sop_buntut</item>
+        <item>@drawable/tempe_mendoan</item>
+    </integer-array>
+
+    <string-array name="data_drink_title">
+        <item>Es Buah Pelangi</item>
+        <item>Es Lemon Tea</item>
+        <item>Es Buah Suka-Suka</item>
+        <item>Es Cincau Milo</item>
+        <item>Es Buah Naga De Coco</item>
+        <item>Cappucino Jelly</item>
+        <item>Es Timun Serut Nata De Coco</item>
+        <item>Choco Ice Blend</item>
+        <item>Es Jahe Sereh Madu</item>
+        <item>Brown Sugar Boba Milk Tea</item>
+    </string-array>
+
+    <string-array name="data_drink_description">
+        <item>Es Buah Pelangi adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, unde, voluptatem? Amet architecto dicta distinctio dolore eius, inventore iusto libero magnam maxime, mollitia nostrum pariatur ratione suscipit? Accusamus, ad aliquam animi assumenda autem ducimus hic ipsa ipsum libero magnam minus molestiae natus numquam, omnis praesentium repellendus rerum sint, tempore voluptates?</item>
+        <item>Es Lemon Tea adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquid blanditiis dicta distinctio dolorem dolorum ducimus expedita id illo illum inventore iusto labore laborum maiores natus nisi numquam odit placeat quisquam quos ratione, recusandae tempore totam, ullam veritatis vitae voluptate. Consequuntur est impedit incidunt iure laboriosam quas quibusdam quo veritatis.</item>
+        <item>Es Buah Suka-Suka adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aut ducimus eveniet molestiae, natus nihil non possimus quae quisquam saepe tempora tempore ut, voluptatibus. Amet cum deserunt dolorem dolores ducimus earum eum excepturi itaque nesciunt nulla, sequi tempore vero? Asperiores cum deserunt eaque, error fugiat ipsa nesciunt quod reiciendis repellat!</item>
+        <item>Es Cincau Milo adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cumque deserunt dolore eos est et fuga fugit impedit inventore itaque laudantium libero minus odio, optio quae quos velit! Accusantium illo laboriosam laudantium molestias nam quis quo repellendus sunt? Corporis dolorum et magni nemo nesciunt nostrum odio perferendis quaerat reiciendis velit.</item>
+        <item>Es Buah Naga De Coco adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae culpa ex impedit incidunt recusandae sit vel. Amet consequatur deleniti eius ex explicabo impedit iusto, sapiente voluptas. Aliquid excepturi explicabo fugit iusto magni possimus quidem quisquam temporibus vero voluptatibus. Atque cupiditate deleniti esse excepturi quaerat quia ratione. Corporis exercitationem molestias neque.</item>
+        <item>Cappucino Jelly adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus dolor doloremque dolorum eius enim esse est expedita explicabo itaque laborum laudantium libero nam nulla numquam officia praesentium, provident, quos reprehenderit. Accusamus corporis dolor dolore dolorem eaque excepturi exercitationem impedit inventore iste minus, nisi possimus, quibusdam repellat similique sunt voluptas voluptate?</item>
+        <item>Es Timun Serut Nata De Coco adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos hic quae quasi. Aperiam commodi distinctio esse est ut! Ab ad, alias assumenda autem beatae, deserunt dolores esse et eum excepturi exercitationem facilis laboriosam nulla quia, reiciendis ullam vitae. Aliquid animi debitis facere magnam natus perspiciatis quia ratione sapiente sed tempore?</item>
+        <item>Choco Ice Blend adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad alias aliquam amet architecto cupiditate eos error, excepturi facilis fugiat id incidunt inventore laborum, libero magnam maiores quae reprehenderit, rerum sapiente tempore veniam voluptatem voluptates. Animi doloribus eius eveniet laborum, magnam perspiciatis reprehenderit sapiente vel voluptatem. Id minus, possimus? Facilis.</item>
+        <item>Es Jahe Sereh Madu adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab cupiditate dolorem, dolores earum eos error est expedita explicabo fuga fugit ipsam iste neque nostrum numquam officia quibusdam quo, repellat repellendus sapiente sequi sint sit sunt, totam voluptatem. Cupiditate doloremque enim eos laboriosam, libero magni neque perspiciatis quaerat rerum tempore!</item>
+        <item>Brown Sugar Boba Milk Tea adalah Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto minima molestias placeat rerum? Adipisci architecto aspernatur culpa, debitis deleniti, dolore est et id incidunt molestias nesciunt numquam praesentium quae quo vitae. Adipisci mollitia nostrum numquam quia suscipit totam voluptas voluptate. Asperiores error ex magni modi officia quidem quos sit.</item>
+    </string-array>
+
+    <string-array name="data_drink_ingredients">
+        <item>- 4 buah alpukat\n- 2 buah Mangga\n- Jelly strawberry\n- Jelly degan\n- Krimer kental manis\n- Gula\n- Air es\n- Biji chia seed</item>
+        <item>- Es batu\n-Madu/gula\n- Air es\n- Lemon\n- Teh favorit kamu</item>
+        <item>- Susu UHT\n- Potongan mangga\n- 5 potongan kiwi, dipotong kecil-kecil\n- 3-5 buah anggur\n- 3-5 buah stroberi\n- Sirup melon\n- Es batu</item>
+        <item>- 250 ml air\n- 1 sachet susu Milo bubuk\n- 1/2 sdt air jeruk songkit\n- 1 sdm susu kental manis/krimer\n- Gula\n- Kolang-kaling\n- Cincau instan </item>
+        <item>- 500 gr buah naga\n- Susu kental manis sesuai selera\n- 250 gr nata de coco\n- Es batu</item>
+        <item>- 1 bungkus cappuccino drink\n- 1 bungkus susu kental manis (SKM) putih\n- Jelly cappucino\n- 500 liter air\n- Es batu</item>
+        <item>- 3 potong timun\n- 500 gram nata de coco\n- 4 sdm selasih\n- Sirup rasa melon\n- 3-4 buah air jeruk kunci atau lemon\n- 300 ml air matang\n- Es batu secukupnya</item>
+        <item>- 100 ml susu cair\n- 25 ml air panas\n- 5 gram coklat bubuk\n- 1/2 sdm kental manis\n- 1 scoop es krim vanila atau coklat\n- 1 sdm gula cair\n- Es batu</item>
+        <item>- 1300 ml air\n- 3 batang sereh, potong dan geprek\n- 3 cm jahe, geprek\n- Madu\n- Es batu\n- Chia seed</item>
+        <item>- 50 ml teh hitam\n- 15 ml brown sugar\n- Boba siap saji\n- Es batu\n- 75 ml susu cair\n- 35 ml topping cream</item>
+    </string-array>
+
+    <string-array name="data_drink_steps">
+        <item>- Potong buah-buahan kedalam ukuran kecil. Potongan ini bisa kamu sesuaikan dengan selera.\n- \n- Lalu, buat jelly dari bahan yang sudah jadi. Biasanya, cara memasak jelly ini cukup mudah. Kamu hanya perlu mencampurkannya dengan air. Setelah jelly jadi, kamu bisa dinginkan terlebih dahulu.\n- Masukkan potongan buah-buahan dan air es ke dalam mangkuk. Lalu, campurkan dengan gula dan krimer.\n- Es buah pelangi siap disajikan.</item>
+        <item>- Seduh teh dengan air panas hingga mencapai tingkat kekentalan yang kamu inginkan. Lalu, sisihkan terlebih dahulu.\n- Tuang teh ke dalam gelas dan campurkan gula.\n- Tambahkan es dan perasan air lemon. Sajikan dalam keadaan dingin agar lebih nikmat.</item>
+        <item>- Potong buah dengan ukuran kecil-kecil untuk mempermudah dalam menatanya.\n- Masukkan semua jenis buah-buahan ke dalam teko besar.\n- Tambahkan es dan gula, lalu aduk hingga merata.\n- Sajikan dalam keadaan dingin agar lebih nikmat.</item>
+        <item>- Rebus kolang-kaling terlebih dahulu sampai terasa empuk. Lalu, tiriskan airnya.\n- Parut cincau sesuai selera dan masukkan dalam gelas.\n- Campurkan Milo bubuk, air jeruk, kental manis, gula, dan air jeruk songkit. Aduk kembali hingga merata dan pastikan semua bahan benar-benar tercampur.\n- Tambahkan es, kolang-kaling, dan cincau ke dalam gelas.\n- Nikmati selagi dalam keadaan dingin.</item>
+        <item>- Siapkan buah naga yang sudah dipotong dadu kecil.\n- Masukkan es dan susu kental manis ke dalam gelas. Aduk higga merata.\n- Masukkan buah naga dan nata de coco ke dalam campuran es dan susu kental manis tadi.\n- Es buah naga nata de coco pun siap untuk kamu sajikan.</item>
+        <item>- Masak jelly cappucino dengan 600 ml air dan masukkan ke dalam wadah. Potong kecil-kecil setelah jelly dalam keadaan dingin.\n- Seduh cappucino dengan air dan berikan campuran kental manis serta air. Aduk rata.\n- Masukkan potongan jelly ke dalam gelas, tambahkan es dan cappuccino.\n- Diamkan ke dalam kulkas sebelum disajikan. </item>
+        <item>- Masukkan timun serut yang sudah kamu cuci bersih tanpa biji dan nata de coco ke dalam gelas.\n- Tuang air dan masukkan sedikit sirup, lalu campur hingga merata.\n- Tambahkan juga jeruk kunci atau lemon agar terasa segar.\n- Agar lebih dingin, kamu bisa memasukkan es batu secukupnya.</item>
+        <item>- Larutkan bubuk coklat dengan sedikit air panas hingga menghasilkan tekstur kental seperti pasta. Setelah itu, sisihkan hingga pasta sedikit dingin.\n- Blender susu dan ice cream hingga tercampur rata. Agar lebih manis, campurkan juga sedikit gula dan air.\n- Tuangkan ke dalam gelas saji dan selamat menikmati</item>
+        <item>- Geprek sere dan jahe, lalu rebus dengan air sampai mendidih. Kamu bisa memasaknya selama 20-30 menit dengan api kecil.\n- Lalu, saring air rebusan tersebut ke dalam gelas.\n- Masukkan madu, es batu, dan chia seed. Lalu, aduk hingga merata sebelum disajikan.</item>
+        <item>- Siapkan gelas saji terlebih dahulu. Lalu, tuangkan sirup gula aren, teh hitam, serta boba ke dalam gelas.\n- Aduk semua bahan tersebut sampai rata.\n- Lalu, tambahkan es batu agar lebih segar.\n- Terakhir, tuangkan sedikit susu cair sesuai selera agar terasa lebih nikmat.</item>
+    </string-array>
+
+    <string-array name="data_drink_photo">
+        <item>@drawable/es_pelangi</item>
+        <item>@drawable/lemon_tea</item>
+        <item>@drawable/es_suka_suka</item>
+        <item>@drawable/cincau_milo</item>
+        <item>@drawable/buah_naga</item>
+        <item>@drawable/cappucino_jelly</item>
+        <item>@drawable/timun_serut</item>
+        <item>@drawable/choco_iceblend</item>
+        <item>@drawable/jahe_sereh</item>
+        <item>@drawable/boba_milk</item>
+    </string-array>
+</resources>
